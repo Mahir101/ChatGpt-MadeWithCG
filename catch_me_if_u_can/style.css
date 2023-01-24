@@ -1,0 +1,24 @@
+body {
+    background-color: #AFB3E3;
+    color: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+input {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    font-size: 1.5em;
+}
+
+button {
+    position: relative;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    border: none;
+    background: yellowgreen;
+    font-size: 1.5em;
+    cursor: progress;
+}
